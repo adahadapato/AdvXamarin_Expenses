@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7A678C7B-5E6C-4A48-A9DA-034EBD07AF9D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExpensesApp.iOS Xamarin.HotReload.DebuggerTimeoutException.ExpensesApp.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.69889B24-E0C9-4C17-88BC-CC3EC90C9359" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp.iOS/Effects/SelectedEffect.cs">
+    <Files>
+      <File FileName="ExpensesApp/Effects/SelectedEffect.cs" Line="9" Column="40" />
+      <File FileName="ExpensesApp.iOS/Effects/SelectedEffect.cs" Line="13" Column="6" />
+      <File FileName="ExpensesApp/Views/NewExpensePage.xaml" Line="57" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExpensesApp" expanded="True">
+            <Node name="ExpensesApp" expanded="True">
+              <Node name="Effects" expanded="True" />
+            </Node>
+            <Node name="ExpensesApp.Android" expanded="True">
+              <Node name="Effects" expanded="True" />
+            </Node>
+            <Node name="ExpensesApp.iOS" expanded="True" selected="True">
+              <Node name="Effects" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExpensesApp.Android PreferredExecutionTarget="Android.zaraph" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
